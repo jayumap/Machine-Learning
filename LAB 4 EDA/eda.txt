@@ -1,1 +1,0 @@
-sum() function works column wise 
